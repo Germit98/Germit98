@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Germit98
+- 👀 I’m interested in Machine learning...
+- 🌱 I’m currently learning pyton
+- 💞️ I’m looking to collaborate on ???
+- 📫 How to reach me: g9803@yandex.ru   
